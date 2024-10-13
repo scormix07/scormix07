@@ -26,7 +26,7 @@ Here are some of the projects I've worked on:
 
 1. **[Automated File Monitoring and Notification](https://github.com/yourusername/File_Monitoring_Automation)**: A Python script that monitors a directory for new files and sends email notifications.
 2. **[ClickUp Reminder Automation](https://github.com/yourusername/ClickUp_Reminder_Automation)**: Automates the scheduling of reminders in ClickUp based on alert severity and confirmation date.
-3. **[Indoor Autonomous Driving Robot](https://github.com/yourusername/Indoor_Autonomous_Robot)**: A robot designed for autonomous navigation using SLAM and RPLIDAR.
+3. **[Indoor Autonomous Driving Robot](https://github.com/yourusername/SDP-Gait-Analysis-ComputerVision)**: College Senior Design Project utilizing machine learning abilities in the healthcare sector.
 
 ## 🚀 Fun Fact
 I'm a 2000-rated chess player, also known as a "failed chess master." I enjoy the strategic challenges of the game!
