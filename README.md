@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**scormix07/scormix07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 # 👋 Hello! I'm Abdulaziz Alzahrani
 
 ## 👨‍💻 About Me
@@ -38,4 +35,4 @@ I'm a 2000-rated chess player, also known as a "failed chess master." I enjoy th
 
 Feel free to explore my repositories and connect with me. I'm always open to collaboration and new ideas!
 
--->
+
